@@ -1,0 +1,31 @@
+# macOS system files
+.DS_Store
+
+# IntelliJ IDEA project files
+.idea/
+
+# Maven wrapper
+accounts/.mvn/
+accounts/mvnw
+accounts/mvnw.cmd
+
+# Logs
+logs/
+*.log
+
+# Target folders (build outputs)
+target/
+
+# Temporary files
+*.iml
+*.tmp
+*.swp
+*.bak
+*.pid
+*.seed
+
+# Ignore all node_modules (if using Node.js)
+node_modules/
+
+# Environment files
+.env
