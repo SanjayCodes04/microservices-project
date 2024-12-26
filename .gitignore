@@ -9,6 +9,14 @@ accounts/.mvn/
 accounts/mvnw
 accounts/mvnw.cmd
 
+cards/.mvn/
+cards/mvnw
+cards/mvnw.cmd
+
+loans/.mvn/
+loans/mvnw
+loans/mvnw.cmd
+
 # Logs
 logs/
 *.log
